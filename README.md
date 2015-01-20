@@ -1,1 +1,1 @@
-Just a small set of usefule django batteries I need for almost every project
+Just a small set of usefull django batteries I need for almost every project

@@ -9,5 +9,5 @@ setup(
     author_email='finnam@gmail.com',
     url='https://github.com/alexanderfinn/djbatteries',
     packages=['batteries',],
-    install_requires=[,],
+    install_requires=[],
 )
